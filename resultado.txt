@@ -26,7 +26,7 @@ R: Sim, o Waseller está em conformidade com a LGPD. Ele não coleta dados pesso
 II. Preços, Formas de Pagamento e Licenciamento
 
 P: Qual é preço do Waseller ?  
-R: R$397,00 por licença anual.
+R: R$297,00 por licença anual.
 
 P: Posso parcelar ?  
 R: Sim, em até 6 vezes no cartão de crédito.
