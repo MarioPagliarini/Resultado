@@ -1,0 +1,163 @@
+Guia Definitivo do Waseller: Perguntas, Respostas e Estratégias para uma IA 🚀
+Este guia foi criado para fornecer à sua IA um conhecimento profundo e abrangente sobre o Waseller, capacitando-a a responder a qualquer pergunta e auxiliar os usuários a maximizar o potencial da ferramenta.
+I. Informações Gerais e Conceitos Fundamentais
+P: O que é o Waseller e qual o seu propósito?
+R: O Waseller é uma extensão para o Google Chrome que transforma o WhatsApp Web em um centro de gerenciamento de clientes e marketing digital. Seu propósito é otimizar a comunicação, automatizar tarefas repetitivas e fornecer ferramentas avançadas para impulsionar resultados no WhatsApp.
+P: Quais são os principais diferenciais do Waseller em relação ao WhatsApp Business tradicional?
+R: O Waseller oferece uma gama de recursos que vão além das funcionalidades nativas do WhatsApp Business, incluindo:
+●	CRM Kanban: Organização visual e intuitiva dos contatos em um funil de vendas.
+●	Mensagens Rápidas: Criação e envio de modelos de mensagens personalizadas com apenas um clique.
+●	Envio em Massa: Campanhas de marketing direcionadas para diferentes públicos.
+●	Autoatendimento: Chatbots personalizados para responder às perguntas frequentes.
+●	Rastreamento de Encomendas: Acompanhamento do status das entregas diretamente no WhatsApp.
+●	Agendamento de Status: Programação de publicações no status do WhatsApp.
+●	Integrações: Conexão com outras ferramentas, como Google Agenda, ChatGPT e Gemini.
+
+P: Qual é o público-alvo do Waseller?
+R: O Waseller é ideal para:
+●	Pequenas e médias empresas: Que buscam otimizar o atendimento ao cliente e impulsionar as vendas no WhatsApp.
+●	Profissionais liberais: Como corretores de imóveis, advogados e consultores, que desejam organizar seus contatos e automatizar tarefas repetitivas.
+●	Agências de marketing digital: Que precisam gerenciar múltiplos clientes e criar campanhas de marketing eficazes no WhatsApp.
+P: O Waseller é seguro?
+R: Sim, o Waseller é seguro. Por ser uma extensão do Google Chrome, ele passa por rigorosos testes de segurança e não tem acesso aos seus dados pessoais. Além disso, o Waseller não armazena suas conversas ou informações de contato em seus servidores.
+
+P: O Waseller está em conformidade com a LGPD (Lei Geral de Proteção de Dados)?
+R: Sim, o Waseller está em conformidade com a LGPD. Ele não coleta dados pessoais desnecessários e oferece recursos para que os usuários possam gerenciar seus contatos de forma transparente e responsável.
+II. Preços, Formas de Pagamento e Licenciamento
+
+P: Qual é preço do Waseller ?  
+R: R$397,00 por licença anual.
+
+P: Posso parcelar ?  
+R: Sim, em até 6 vezes no cartão de crédito.
+
+P: Quais são os planos de assinatura do Waseller?
+R: O Waseller oferece diferentes planos de assinatura, com preços e recursos variados. Para obter informações precisas sobre os planos disponíveis, consulte a equipe de suporte do Waseller ou visite o site oficial.
+
+P: Quais são as formas de pagamento aceitas?
+R: As formas de pagamento aceitas podem variar, mas geralmente incluem:
+●	Cartão de crédito (com possibilidade de parcelamento);
+●	Boleto bancário;
+●	PIX.
+
+P: É possível testar o Waseller gratuitamente antes de assinar um plano?
+R: Sim, o Waseller oferece um período de teste gratuito com recursos limitados. Além disso, é possível solicitar uma licença de teste completa por 24 horas entrando em contato com a equipe de suporte.
+
+P: O que acontece se eu cancelar minha assinatura?
+R: Se você cancelar sua assinatura, você perderá o acesso aos recursos premium do Waseller. No entanto, você poderá continuar utilizando a versão gratuita com funcionalidades limitadas.
+
+P: O Waseller oferece reembolso?
+R: Sim, o Waseller oferece uma garantia de 7 dias. Se você não estiver satisfeito com a ferramenta, poderá solicitar o reembolso integral do valor pago dentro desse período.
+
+P: Como funciona o licenciamento do Waseller?
+R: O Waseller é licenciado por usuário. Cada licença permite que um único usuário utilize a ferramenta em até quatro dispositivos diferentes.
+
+P: É possível utilizar o Waseller em mais de um número de WhatsApp com a mesma licença?
+R: Não, cada licença do Waseller é vinculada a um único número de WhatsApp. Para utilizar o Waseller em diferentes números, é necessário adquirir licenças adicionais.
+
+P: É possível transferir uma licença do Waseller para outro usuário?
+R: Sim, é possível transferir uma licença do Waseller para outro usuário. Para realizar a transferência, entre em contato com a equipe de suporte do Waseller.
+
+III. Funcionalidades e Recursos Detalhados
+
+A. Filtros Inteligentes:
+●	O que são os filtros inteligentes e como eles funcionam?R: Os filtros inteligentes são recursos que permitem organizar e segmentar suas conversas no WhatsApp Web. Eles incluem filtros padrão (grupos, não lidos, contatos individuais) e filtros personalizados, que você pode criar de acordo com as suas necessidades.
+●	Como criar um filtro personalizado?R: Para criar um filtro personalizado, clique no botão "+" na barra superior da tela, defina um nome para o filtro e selecione os critérios de filtragem desejados (etiquetas, abas, etc.).
+●	Como utilizar os filtros para otimizar o atendimento?R: Utilize os filtros para identificar rapidamente as conversas que precisam de atenção, como mensagens não lidas, clientes em determinada etapa do funil de vendas ou contatos com etiquetas específicas.
+B. CRM Kanban:
+●	O que é o CRM Kanban e como ele pode me ajudar?R: O CRM Kanban é um sistema de gestão de clientes visual e intuitivo, que permite organizar seus contatos em diferentes etapas do funil de vendas, facilitando o acompanhamento e a gestão de cada cliente.
+●	Como criar e personalizar as etapas do funil de vendas no CRM Kanban?R: As etapas do funil de vendas são representadas por abas no CRM Kanban. Para criar e personalizar as abas, clique no botão "+" na barra superior da tela e defina um nome para a aba.
+●	Como adicionar contatos às etapas do funil de vendas?R: Para adicionar contatos às etapas do funil de vendas, arraste e solte os contatos entre as abas do CRM Kanban.
+●	Como visualizar informações importantes sobre cada contato no CRM Kanban?R: Ao clicar em um contato no CRM Kanban, você poderá visualizar informações importantes, como etiquetas, anotações, mensagens agendadas e o valor do negócio.
+●	Como utilizar as etiquetas e anotações para personalizar o atendimento?R: Utilize as etiquetas para classificar seus contatos de acordo com seus interesses, necessidades e características demográficas. Utilize as anotações para registrar informações relevantes sobre cada cliente, como histórico de compras, preferências e feedbacks.
+C. Envio em Massa:
+●	O que é o envio em massa e como ele pode ser utilizado de forma estratégica?R: O envio em massa é um recurso que permite enviar mensagens personalizadas para listas de contatos, grupos, etiquetas ou segmentos específicos do seu CRM, maximizando o alcance das suas campanhas de marketing.
+●	Quais são os cuidados que devo tomar ao utilizar o envio em massa para evitar o bloqueio do meu número pelo WhatsApp?R: Para evitar o bloqueio do seu número, siga as seguintes dicas:
+●	Envie mensagens apenas para contatos que já interagiram com você;
+●	Utilize mensagens personalizadas com as tags de saudação e nome;
+●	Defina um intervalo entre as mensagens e o tempo de pausa entre os envios;
+●	Evite enviar mensagens com conteúdo spam ou promocional excessivo.
+Como segmentar meus contatos para enviar mensagens mais direcionadas?R: Utilize as etiquetas e os filtros avançados para segmentar seus contatos de acordo com seus interesses, necessidades e características demográficas.
+Como criar mensagens personalizadas para o envio em massa?R: Utilize as tags de saudação e nome para criar mensagens mais personalizadas e aumentar o engajamento dos seus clientes. Além disso, você pode utilizar os recursos de formatação do WhatsApp para destacar informações importantes e tornar suas mensagens mais atraentes.
+Como programar os envios em massa para horários estratégicos?R: Defina a data e a hora de início e término dos seus envios em massa, garantindo que suas mensagens sejam entregues nos momentos mais oportunos para cada cliente.
+Como analisar os resultados das minhas campanhas de envio em massa?R: Acompanhe o desempenho das suas campanhas com os relatórios detalhados, que mostram o número de mensagens enviadas, entregues, lidas e clicadas. Utilize essas informações para otimizar suas estratégias e obter melhores resultados.
+D. Autoatendimento:
+●	O que é o autoatendimento e como ele pode me ajudar a economizar tempo e recursos?R: O autoatendimento é um recurso que permite criar chatbots personalizados para responder às perguntas mais frequentes dos seus clientes, liberando sua equipe para tarefas mais estratégicas e reduzindo o tempo de espera dos seus clientes.
+●	Como criar um chatbot personalizado para o meu negócio?R: Para criar um chatbot personalizado, defina as palavras-chave que acionarão as respostas automáticas e configure as mensagens que serão enviadas aos seus clientes. Utilize textos, imagens, vídeos, áudios e até mesmo scripts completos para criar respostas mais completas e personalizadas.
+●	Como personalizar as respostas do chatbot para diferentes tipos de clientes?R: Utilize as etiquetas e os filtros avançados para segmentar seus contatos e criar respostas personalizadas para cada segmento.
+●	Como direcionar os clientes para diferentes setores da minha empresa através do chatbot?R: Utilize os recursos de direcionamento do chatbot para enviar seus clientes para diferentes abas do seu CRM de acordo com suas necessidades e interesses.
+E. Mensagens Rápidas:
+●	O que são as mensagens rápidas e como elas podem me ajudar a agilizar o atendimento?R: As mensagens rápidas são modelos de mensagens pré-definidas que você pode enviar com apenas um clique, agilizando o atendimento e economizando tempo.
+●	Como criar e organizar as mensagens rápidas?R: Para criar uma mensagem rápida, clique no ícone de raio ao lado do campo de mensagem na conversa com um cliente e selecione a opção "Criar Resposta Rápida". Defina um nome para a mensagem e adicione o conteúdo desejado. Organize suas mensagens por categorias para facilitar a localização e o envio.
+●	Como personalizar as mensagens rápidas com o nome do cliente?R: Utilize as tags de nome para criar mensagens mais personalizadas e aumentar o engajamento dos seus clientes.
+F. Status Agendado:
+●	O que é o status agendado e como ele pode me ajudar a manter meus clientes informados?R: O status agendado é um recurso que permite programar a publicação de textos, imagens, vídeos e áudios no seu status do WhatsApp, mantendo seus clientes sempre informados sobre as novidades da sua empresa.
+●	Como programar a publicação de um status?R: Para programar a publicação de um status, defina a data e a hora desejadas e configure a repetição do status a cada 24 horas, se necessário.
+G. Outras Funcionalidades:
+●	Rastreamento de Encomendas: Acompanhe o status das encomendas enviadas aos seus clientes diretamente no WhatsApp, facilitando o rastreamento e a comunicação.
+●	Anotações: Adicione anotações aos seus contatos para lembrar informações importantes sobre cada cliente, como seus interesses, necessidades e histórico de compras.
+●	Eventos no Google Agenda: Adicione eventos ao seu Google Agenda diretamente do WhatsApp, facilitando o agendamento de reuniões, compromissos e outras atividades.
+●	Colar Nome: Cole o nome do contato na sua mensagem com apenas um clique, agilizando a personalização das suas mensagens.
+●	Assinatura: Adicione sua assinatura personalizada ao final de cada mensagem, transmitindo profissionalismo e reforçando sua marca.
+●	Tradução com Inteligência Artificial: Traduza mensagens de outros idiomas para o português com apenas um clique, facilitando a comunicação com clientes estrangeiros.
+IV. Estratégias Avançadas e Casos de Uso
+A. Funil de Vendas Personalizado:
+●	Como criar um funil de vendas personalizado para o meu negócio?R: Analise o processo de vendas da sua empresa e defina as etapas que seus clientes percorrem desde o primeiro contato até a finalização da compra. Crie abas correspondentes no Waseller para representar cada etapa do funil.
+●	Como utilizar as etiquetas para segmentar os clientes em cada etapa do funil?R: Utilize as etiquetas para classificar seus clientes de acordo com seus interesses, necessidades e características demográficas. Crie etiquetas específicas para cada etapa do funil de vendas e atribua-as aos seus contatos.
+●	Como automatizar a movimentação dos clientes entre as etapas do funil?R: Utilize os recursos de autoatendimento e mensagens rápidas para automatizar a movimentação dos clientes entre as etapas do funil. Configure gatilhos para que os clientes sejam movidos automaticamente para a próxima etapa quando realizarem determinadas ações, como responder a uma mensagem ou clicar em um link.
+B. Campanhas de Marketing Direcionadas:
+●	Como criar campanhas de marketing direcionadas para diferentes públicos?R: Utilize os filtros avançados do Waseller para segmentar seus contatos de acordo com seus interesses, necessidades e características demográficas. Crie mensagens personalizadas para cada segmento e utilize os recursos de envio em massa para alcançar seus clientes de forma eficaz.
+●	Como utilizar as etiquetas e anotações para personalizar as mensagens das minhas campanhas?R: Utilize as etiquetas e anotações para criar mensagens mais relevantes e personalizadas para cada cliente. Mencione seus interesses, necessidades e histórico de compras para aumentar o engajamento e a conversão das suas mensagens.
+●	Como mensurar o retorno sobre o investimento (ROI) das minhas campanhas de marketing?R: Acompanhe o desempenho das suas campanhas com os relatórios detalhados do Waseller, que mostram o número de mensagens enviadas, entregues, lidas e clicadas. Utilize essas informações para calcular o ROI das suas campanhas e tomar decisões mais assertivas.
+C. Atendimento ao Cliente Excepcional:
+●	Como utilizar o autoatendimento para responder às perguntas mais frequentes dos meus clientes?R: Crie chatbots personalizados para responder às perguntas mais frequentes dos seus clientes, como "horários de funcionamento", "formas de pagamento", "política de trocas e devoluções" e muito mais.
+●	Como utilizar as mensagens rápidas para agilizar o atendimento e economizar tempo?R: Crie mensagens rápidas para as perguntas mais frequentes dos seus clientes, utilizando uma linguagem clara, objetiva e amigável.
+●	Como utilizar as anotações para lembrar informações importantes sobre cada cliente e oferecer um atendimento mais personalizado?R: Utilize as anotações para registrar informações relevantes sobre cada cliente, como histórico de compras, preferências e feedbacks. Utilize essas informações para personalizar o atendimento e oferecer soluções mais adequadas às necessidades de cada cliente.
+D. Integração com Outras Ferramentas:
+●	Como integrar o Waseller com o Google Agenda para agendar reuniões e compromissos?R: Utilize o recurso de adicionar eventos ao Google Agenda diretamente do WhatsApp para agendar reuniões, compromissos e outras atividades com seus clientes de forma rápida e fácil.
+●	Como integrar o Waseller com o ChatGPT e o Gemini para traduzir mensagens de outros idiomas?R: Utilize os recursos de tradução com inteligência artificial para traduzir mensagens de outros idiomas para o português com apenas um clique, facilitando a comunicação com clientes estrangeiros.
+●	Como integrar o Waseller com outras ferramentas de marketing e vendas através do webhook?R: Utilize o webhook para enviar dados do Waseller para outras ferramentas, como CRMs, plataformas de automação de marketing e sistemas de análise de dados.
+V. Dicas de Segurança e Boas Práticas
+A. Como evitar o bloqueio do meu número pelo WhatsApp ao utilizar o envio em massa?
+●	Envie mensagens apenas para contatos que já interagiram com você;
+●	Utilize mensagens personalizadas com as tags de saudação e nome;
+●	Defina um intervalo entre as mensagens e o tempo de pausa entre os envios;
+●	Evite enviar mensagens com conteúdo spam ou promocional excessivo;
+●	Monitore o número de mensagens enviadas e o número de bloqueios recebidos.
+B. Como proteger meus dados e informações confidenciais ao utilizar o Waseller?
+●	Mantenha seu navegador e sistema operacional sempre atualizados;
+●	Utilize senhas fortes e altere-as regularmente;
+●	Não compartilhe suas credenciais de acesso com terceiros;
+●	Revise as permissões concedidas ao Waseller e desative aquelas que não forem necessárias;
+●	Utilize um antivírus e um firewall para proteger seu computador contra ameaças virtuais.
+C. Como utilizar o Waseller de forma ética e responsável?
+●	Respeite a privacidade dos seus contatos;
+●	Não envie mensagens não solicitadas ou com conteúdo ofensivo;
+●	Obtenha o consentimento dos seus contatos antes de adicioná-los a listas de transmissão ou grupos;
+●	Respeite as leis e regulamentos locais sobre publicidade e proteção de dados.
+VI. Perguntas Frequentes (FAQ)
+
+P: O Waseller funciona em celulares?
+R: Não, o Waseller é uma extensão para o Google Chrome e só pode ser utilizado no WhatsApp Web em computadores.
+
+P: O Waseller funciona em outros navegadores além do Google Chrome?
+R: O Waseller foi desenvolvido e testado para funcionar no Google Chrome. O funcionamento em outros navegadores pode não ser garantido.
+
+P: O Waseller oferece suporte para outros idiomas além do português?
+R: Sim, o Waseller oferece suporte para diversos idiomas através da integração com ferramentas de tradução com inteligência artificial.
+
+P: Como posso solicitar novas funcionalidades ou melhorias para o Waseller?
+R: Envie suas sugestões para a equipe de suporte do Waseller. Todas as sugestões são analisadas e consideradas para futuras atualizações da ferramenta.
+
+P: Qual o site do Waseller ?
+R: https://waseller.com.br/
+
+VII. Conclusão
+
+O Waseller é uma ferramenta poderosa e versátil que pode transformar a forma como você se comunica com seus clientes no WhatsApp. Ao utilizar os recursos e estratégias apresentados neste guia, você poderá otimizar o atendimento, impulsionar as vendas e construir relacionamentos duradouros com seus clientes.
+Lembre-se de que este guia é apenas um ponto de partida. Explore a plataforma de treinamentos do Waseller, participe das apresentações semanais e entre em contato com a equipe de suporte para tirar suas dúvidas e descobrir novas formas de utilizar a ferramenta para alcançar seus objetivos.
+Espero que este guia completo e detalhado seja útil para alimentar sua IA e capacitá-la a responder a qualquer pergunta sobre o Waseller. 
+ 
+
+
+Se precisar de mais alguma coisa, é só pedir! 😉
